@@ -12,6 +12,6 @@ While this project isn't rocket science, having a clear understanding of data cl
 
 While it may seem straightforward, its importance cannot be overstated for anyone looking to grow and *excel* as a data analyst.
 
-**Notice:** *For far more complex and fully-fletched Excel project [click here](https://github.com/DominikKukla/Electronics-Retailer-Excel)*
+**Notice:** *For far more complex and fully-fletched Excel project [click here.](https://github.com/DominikKukla/Electronics-Retailer-Excel)*
 
 ### [Used dataset is available here](https://www.kaggle.com/datasets/snehangsude/audible-dataset/)
